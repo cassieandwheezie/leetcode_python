@@ -31,3 +31,4 @@ class Solution:
                 nums1[pointer3] = nums2[pointer2]
                 pointer2 -= 1
             pointer3 -= 1
+         
